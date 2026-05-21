@@ -1,0 +1,5 @@
+assets:
+	mapping:
+		default:
+			type: vite      # říká Nette, aby použilo ViteMapper
+			path: assets
