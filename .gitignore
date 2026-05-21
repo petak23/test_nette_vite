@@ -1,2 +1,11 @@
 node_modules
+log
+temp
+vendor
+www/assets
+deployment.ini
+deployment.log
+composer.lock
+tests/_temp/
+tests/webtemp/
 .history
